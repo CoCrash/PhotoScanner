@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="hello">Hello World, Gallery!</string>
+    <string name="app_name">图库</string>
+    <string name="description_waterfallitem">瀑布流个体</string>
+</resources>
